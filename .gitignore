@@ -1,4 +1,13 @@
-# Logs
+# my
+backend/node_moduels/
+forntend/node_moduels/
+forntend/build/
+backend/build/
+backend/public/
+.idea
+*.iml
+
+# Logsg
 logs
 *.log
 npm-debug.log*
